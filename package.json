@@ -1,0 +1,18 @@
+{
+  "name": "gmo-express-example",
+  "version": "1.0.0",
+  "description": "Express example based on an express assignment with a certain structor",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Daniel Floyd",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
